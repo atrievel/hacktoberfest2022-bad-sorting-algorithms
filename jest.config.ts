@@ -6,4 +6,4 @@ const config: Config.InitialOptions = {
   verbose: true,
   automock: true,
 }
-export default config
+export default config;

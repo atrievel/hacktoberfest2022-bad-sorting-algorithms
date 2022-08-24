@@ -17,9 +17,5 @@
     "outDir": "./dist"
   },
   "compileOnSave": true,
-  "exclude":[
-    "./node_modules",
-    "./tests",
-    "./jest.config.js"
-  ]
+  "exclude": ["./node_modules"]
 }
