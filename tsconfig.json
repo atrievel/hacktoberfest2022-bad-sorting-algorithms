@@ -12,9 +12,14 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "baseUrl": "",
+    "baseUrl": "./src",
     "noFallthroughCasesInSwitch": true,
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "paths": {
+      "@algorithms/*": ["algorithms/*"],
+      "@contracts/*": ["contracts/*"],
+      "@utils/*": ["utils/*"]
+    }
   },
   "compileOnSave": true,
   "exclude": ["node_modules"]
