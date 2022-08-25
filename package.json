@@ -4,10 +4,11 @@
   "description": "A collection of bad (or just plain hilarious) sorting algorithms for Hacktoberfest 2022",
   "main": "index.js",
   "scripts": {
-    "build": "yarn lint && rm -rf ./dist && tsc -p tsconfig.build.json",
+    "build": "rm -rf ./dist && tsc -p tsconfig.build.json",
+    "pretest": "yarn lint && yarn test && yarn build",
     "lint": "eslint ./src --ext .ts",
     "lint-and-fix": "eslint ./src --ext .ts --fix",
-    "start": "ts-node test.ts",
+    "start": "ts-node ./src/runner.ts",
     "test": "jest"
   },
   "repository": {
