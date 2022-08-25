@@ -5,10 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "rm -rf ./dist && tsc -p tsconfig.build.json",
-    "pretest": "yarn lint && yarn test && yarn build",
     "lint": "eslint ./src --ext .ts",
-    "lint-and-fix": "eslint ./src --ext .ts --fix",
-    "start": "ts-node ./src/runner.ts",
+    "pretest": "eslint ./src --ext .ts && jest",
     "test": "jest"
   },
   "repository": {
