@@ -5,6 +5,7 @@ A collection of bad (or just plain hilarious) sorting algorithms for Hacktoberfe
 Most projects during Hacktoberfest focus on implementing optimal solutions for various problems. I though it would be a fun challenge to implement a collection of "bad" sorting algorithms instead. Bellow are a list of what I could find to be some of the most hilarious sorting algorithms.
 
 ## List of algorithms
+* Bubble sort (not necessarily bad, just an example)
 * Sleep sort
 * Bogo sort
 * Bozo sort
