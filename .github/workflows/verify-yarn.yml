@@ -1,4 +1,4 @@
-name: Bad Sorting Alogorithms CI
+name: Bad Sorting Algorithms CI
 
 on:
   push:
