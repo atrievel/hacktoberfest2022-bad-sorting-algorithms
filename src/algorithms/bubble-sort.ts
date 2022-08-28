@@ -1,8 +1,8 @@
 import SortingAlgorthim from "@contracts/sorting-algorithm";
 
 export default class BubbleSort<T extends number | string> extends SortingAlgorthim<T> {
-  constructor(collectionToSort: T[], sortAsc = false) {
-    super(collectionToSort, sortAsc);
+  constructor(collectionToSort: T[], sortDesc = false) {
+    super(collectionToSort, sortDesc);
   }
 
   sort(): T[] {
@@ -18,6 +18,6 @@ export default class BubbleSort<T extends number | string> extends SortingAlgort
       }
     }
 
-    return this.sortAsc ? sortedCollection.reverse() : sortedCollection;
+    return this.sortDesc ? sortedCollection.reverse() : sortedCollection;
   }
 }

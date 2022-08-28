@@ -1,15 +1,15 @@
 export default abstract class SortingAlgorithm<T extends number | string> {
   protected collectionToSort: ReadonlyArray<T>;
-  protected sortAsc: boolean;
+  protected sortDesc: boolean;
 
   /**
    *
    * @param collectionToSort a collection of T<number | string> to sort
-   * @param sortAsc sort the data ascending if true
+   * @param sortDesc sort the data in descending order if true
    */
-  constructor(collectionToSort: T[], sortAsc = false) {
+  constructor(collectionToSort: T[], sortDesc = false) {
     this.collectionToSort = collectionToSort;
-    this.sortAsc = sortAsc;
+    this.sortDesc = sortDesc;
   }
 
   /**
