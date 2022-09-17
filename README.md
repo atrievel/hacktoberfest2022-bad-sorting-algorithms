@@ -16,7 +16,7 @@ Below are a list of what I could find to be some of the most hilarious sorting a
 * Dictator sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/19))
 * Spaghetti Sort
 * Slow sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/20))
-* API sort
+* API sort ([first issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/22)) and ([second issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/23))
 * Stooge sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/21))
 * Quantum Bogosort
 
