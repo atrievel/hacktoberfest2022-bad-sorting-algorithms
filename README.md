@@ -10,10 +10,8 @@ Most projects during Hacktoberfest focus on implementing optimal solutions for v
 * Sleep sort
 * Bogo sort
 * Bozo sort
-* Quantum Bogosort
 * Domino sort
 * Dictator sort
-* Solar bitflip sort
 * Spaghetti Sort
 * Slow sort
 * API sort
