@@ -7,12 +7,12 @@ Most projects during Hacktoberfest focus on implementing optimal solutions for v
 ## List of algorithms
 * [Bubble sort (not necessarily bad, just an example)](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/blob/main/src/algorithms/bubble-sort.ts)
   * Implemented by [atrievel](https://github.com/atrievel)
-* Sleep sort
-* Bogo sort
-* Bozo sort
-* Domino sort
-* Dictator sort
+* Sleep sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/16))
+* Bogo sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/17))
+* Bozo sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/18))
+* Domino sort 
+* Dictator sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/19))
 * Spaghetti Sort
-* Slow sort
+* Slow sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/20))
 * API sort
-* Stooge sort
+* Stooge sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/21))
