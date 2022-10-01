@@ -12,13 +12,13 @@ Below are a list of what I could find to be some of the most hilarious sorting a
 * Sleep sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/16))
 * Bogo sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/17))
 * Bozo sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/18))
-* Domino sort 
+* Domino sort (issues comming soon)
 * Dictator sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/19))
-* Spaghetti Sort
+* Spaghetti Sort (issues comming soon)
 * Slow sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/20))
 * API sort ([first issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/22)) and ([second issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/23))
 * Stooge sort ([issue here](https://github.com/atrievel/hacktoberfest2022-bad-sorting-algorithms/issues/21))
-* Quantum Bogosort
+* Quantum Bogosort (issues comming soon)
 
 ## Contributing
 Feel free to browse any of the unassigned open issues, post a comment and @ me saying you'd like to work on it, and I'll assign you as soon as I can.
